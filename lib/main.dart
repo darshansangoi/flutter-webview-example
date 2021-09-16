@@ -24,7 +24,7 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   final myController = TextEditingController();
-  String url = 'https://github.com/pravodev';
+  String url = 'https://dgayurvedic.com';
   final GlobalKey<ScaffoldState> _scaffoldKey = new GlobalKey<ScaffoldState>();
 
   @override
